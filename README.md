@@ -1,4 +1,4 @@
-# Dashboard de Vendas — Produtos Digitais (Tema: Azul e Cinza)
+# Dashboard de Vendas — Produtos Digitais
 
 Este repositório contém um _dashboard_ de vendas criado em Excel, usando uma base de dados simulada com **vendas de produtos digitais** (games, assinaturas e softwares). O objetivo é demonstrar organização de dados, análise visual e geração de insights rápidos.
 
